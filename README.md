@@ -147,9 +147,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 - My Teamates:
-  + Dao Sy Duy Minh ( myself)
+  + Dao Sy Duy Minh 
   + Nguyen Lam Phu Quy
-  + Nguyen Tran Trung Kien
+  + Nguyen Tran Trung Kien ( myself)
   + Bang My Linh
 - Pygame community for resources and support
 - Original Tom and Jerry characters by Hanna-Barbera
